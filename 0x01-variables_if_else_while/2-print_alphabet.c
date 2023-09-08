@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
  * main - Empty point
- * Description: 'Print alphabets lowercase'
- * return: Always 0
+ *
+ * Return: Always 0
  */
 int main(void)
 {
